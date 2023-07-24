@@ -1,0 +1,18 @@
+h1{
+    color: white;
+    background-color: black;
+    text-align: left;
+}
+h2{
+    color: white;
+    background-color: rgba(98, 22, 169, 0.959);
+    font-style: italic;
+    text-align: center;
+}
+h3{
+    color: rgb(34, 42, 122);
+    background-color: rgb(28, 124, 154);
+    font-style: italic;
+    text-align:right ;
+    text-decoration: underline;
+}

@@ -1,0 +1,25 @@
+.b1{
+    color: rgb(32, 233, 240);
+    background-color: beige;
+    border: 2px solid rgb(32, 233, 240);
+    font-size: 20px;
+    border-radius: 20px;
+    width: 120px;
+}
+.b2{
+    color: white;
+    background-color: rgb(32, 233, 240);
+    border: 2px solid rgb(32, 233, 240);
+    border-radius: 50%;
+    font-size: 25px;
+
+}
+.b3{
+    color: white;
+    background-color: rgb(17, 62, 176);
+    font-size: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: 3px 3px 2px black;
+    width: 200px;
+    height: 40px;
+}
